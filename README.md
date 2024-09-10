@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gopal Mathur</h1>
 <h3 align="center">Blockchain developer from india constanttly looking to learn and grow</h3>
 
+- I am a Blockchain Developer
 - 📫 How to reach me **mathuyrgopal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
