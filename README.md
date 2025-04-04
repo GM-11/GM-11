@@ -48,15 +48,11 @@ I'm currently pursuing a B.Tech in Automobile Engineering from Delhi Technologic
 
 ## 🌟 Experience
 
-- **Rust Smart Contract Engineer Intern** @ StreamNFT (Remote) — Sep 2024 - Present  
+- **Rust Smart Contract Engineer Intern** @ StreamNFT (Remote) — Sep 2024 - March 2025  
 Developed Rust and Tact smart contracts for NFT utilities on Stellar and TON blockchains.
 
 - **Full Stack Developer Intern** @ Ezinore Private Limited (Delhi) — Feb 2023 - Sep 2023  
 Built the official website with SvelteKit and a real-time mobile app using Flutter. Managed IoT services on AWS.
-
-- **President** @ Web3DTU (Student Society) — Mar 2024 - Present  
-Founded and led Web3DTU, organizing hackathons, workshops, and expanding the community to 70+ members.
-
 ---
 
 ## 🏆 Achievements
