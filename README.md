@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Gopal Mathur!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-GopalMathur-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gopal-mathur-70044125a/)
-[![GitHub](https://img.shields.io/badge/GitHub-GM--11-black?logo=github&style=for-the-badge)](https://github.com/GM-11)
-[![Email](https://img.shields.io/badge/Email-gopalmathur_pe22b14_12@dtu.ac.in-red?logo=gmail&style=for-the-badge)](mailto:gopalmathur_pe22b14_12@dtu.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gopal-mathur-70044125a/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/GM-11)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:mathuyrgopal@gmail.com)
 
 🎓 Automobile Engineering @ DTU (2022–2026)  
 🧠 Building the future with Embedded Systems, Autonomous Tech, AI, and Web3.  
