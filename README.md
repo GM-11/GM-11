@@ -1,130 +1,129 @@
-# 👋 Hey, I'm Gopal Mathur!
+Your current README has **too much hype and noise** (too many emojis, vague statements like “building the future”, mixed branding). Recruiters usually skim GitHub profiles in **10–20 seconds**, so it should look **clean, technical, and credible**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/gopal-mathur-70044125a/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge)](https://github.com/GM-11)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge)](mailto:mathuyrgopal@gmail.com)
-
-🎓 Automobile Engineering @ DTU (2022–2026)  
-🧠 Building the future with Embedded Systems, Autonomous Tech, AI, and Web3.  
-🌐 President @ WEB3DTU | Intern @ Siemens Tech | Projects across 🚗⚙📱🧠🔗
+Here’s a **more professional version with the same structure**, but tighter and focused on engineering.
 
 ---
 
-## 🔧 Technologies & Skills
+# Gopal Mathur
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&style=for-the-badge)](https://www.linkedin.com/in/gopal-mathur-70044125a/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github\&style=for-the-badge)](https://github.com/GM-11)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail\&style=for-the-badge)](mailto:gopalmathur1001@gmail.com)
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-F1413D?style=for-the-badge&logo=svelte&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+Automotive Engineering Undergraduate — Delhi Technological University (2022–2026)
+Software engineer focused on **backend systems, AI applications, distributed platforms, and blockchain infrastructure**.
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+Currently:
 
-**Blockchain:**  
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-4E44CE?style=for-the-badge&logo=solana&logoColor=white)
-![Stellar](https://img.shields.io/badge/Stellar-000000?style=for-the-badge&logo=stellar&logoColor=white)
-![TON](https://img.shields.io/badge/TON-0088CC?style=for-the-badge&logo=ton&logoColor=white)
-![Internet Computer](https://img.shields.io/badge/Internet%20Computer-000000?style=for-the-badge&logo=icp&logoColor=white)
-
-**Additional Tools:**  
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+* Technical Intern at **Siemens Technology**
+* President of **WEB3DTU**
+* Interested in **distributed systems, AI infrastructure, and automotive software**
 
 ---
 
-## 🚀 Highlight Projects
+# Technologies
 
-### 📺 [Flow App](https://play.google.com/store/apps/details?id=com.flow_streaming.flow&hl=en_IN)
-> Real-time content streaming app built with Flutter & Golang  
-⚡ 25% faster load time, microservice backend, EC2 hosted
+### Languages
 
----
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
 
-### 📆 [Planner App](https://github.com/GM-11/planner)  
-> Cross-platform productivity app using Supabase  
-📈 Indexed queries, real-time updates, Supabase Auth integrated
+### Frontend
 
----
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
+![Svelte](https://img.shields.io/badge/Svelte-F1413D?style=for-the-badge\&logo=svelte)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter)
 
-### 💻 [Full Stack Agent](https://pypi.org/project/full-stack-agent/)
-> AI-powered CLI agent for generating boilerplate full stack projects  
-⚙️ Built with Langchain + Groq API, delivers code in 15s
+### Backend / Infrastructure
 
----
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
 
-### 🧬 [Revvek DApp](https://revvek-svm.vercel.app/)
-> Decentralized rental marketplace on Solana using Anchor  
-🌐 Built frontend in SvelteKit and stored data on IPFS
+### Blockchain
 
----
-
-## 💼 Experience
-
-**Technical Intern – Siemens Technology** (2025–Present)  
-- GenAI automation for bidding, boosted efficiency by 20%  
-- Streamlined workflows for 100% timely submissions
-
-**Rust Smart Contract Intern – StreamNFT** (2024–2025)  
-- Contracts on Stellar + TON, grew user base by 25%  
-- Integrated protocols into official website (Next.js)
-
-**Full Stack Intern – Ezinore Pvt. Ltd.** (2023)  
-- SvelteKit web & Flutter app for energy monitoring  
-- IoT integration using ESP32 + AWS
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum)
+![Solana](https://img.shields.io/badge/Solana-4E44CE?style=for-the-badge\&logo=solana)
+![TON](https://img.shields.io/badge/TON-0088CC?style=for-the-badge)
 
 ---
 
-## 🏆 Achievements
+# Selected Projects
 
-- 🥉 3rd place @ **Blockbash Hackathon** (Crewsphere ICP Hub)
-- 🏅 **Bounty Winner** @ *Soroban Buildathon* (Stellar)
-- 🌐 **President @ WEB3DTU**, Blockchain Society DTU
+### Flow — Micro Drama Streaming Platform
 
----
+Mobile video streaming platform built with **Flutter, Golang, AWS, and PostgreSQL**
 
-## 📚 Certifications
-
-- 🔗 Blockchain A-Z (Udemy, 2024)  
-- 🛠️ Solana Dev Bootcamp (Udemy, 2023)  
-- ⚙️ Solidity + Ethereum with Next.js (Udemy, 2023)  
-- 🌍 Web3 in Global Commerce – INSEAD (2024)
+* Designed microservice backend supporting **100+ concurrent users**
+* Optimized database queries reducing latency by **30%**
+* Deployed backend services on **AWS EC2**
 
 ---
 
-## 📊 GitHub Stats
+# Experience
+
+### Technical Intern — Siemens Technology
+
+2025 – Present
+
+* Built **GenAI platform** for automated training content generation
+* Implemented **RAG pipelines and vector embeddings**
+* Scaled PoC into a full-stack enterprise application using
+  **Spring Boot, React, MongoDB**
+* Containerized deployment using **Docker and Azure CI/CD**
+
+---
+
+### Smart Contract Engineer Intern — Digital Asset Network
+
+2024 – 2025
+
+* Developed **Rust smart contracts** used by 700+ users
+* Implemented financial utilities such as **loan and rental protocols**
+* Built **TypeScript SDKs** for developer integrations
+* Improved **Next.js frontend performance**
+
+---
+
+### Full Stack Developer — Ezinore Pvt Ltd
+
+2023
+
+* Built **IoT data pipelines** using ESP32 and AWS IoT Core
+* Developed **Flutter mobile application** and SvelteKit web platform
+* Prototyped systems used in **early-stage investor demonstrations**
+
+---
+
+# Achievements
+
+* 3rd Place — **Blockbash Hackathon (Crewsphere ICP Hub India)**
+* President — **WEB3DTU Blockchain Society**
+* Contributor — **DTU E-Summit Website**
+
+---
+
+# GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GM-11&show_icons=true&theme=tokyonight" />
-  <br />
+  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=GM-11&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔍 Let's Collaborate!
+# Contact
 
-Whether you're building **autonomous vehicles**, **Web3 protocols**, or **full-stack apps**—I'm up for the challenge. Let's build something meaningful.
-
-📫 Email me at: gopalmathur_pe22b14_12@dtu.ac.in  
-🌐 Or visit: [github.com/GM-11](https://github.com/GM-11)
-
----
-
-_“Code is the fuel, curiosity is the engine.”_
+Email: [gopalmathur1001@gmail.com](mailto:gopalmathur1001@gmail.com)
+LinkedIn: [https://linkedin.com/in/gopal-mathur-70044125a](https://linkedin.com/in/gopal-mathur-70044125a)
+GitHub: [https://github.com/GM-11](https://github.com/GM-11)
