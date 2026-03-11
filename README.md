@@ -1,9 +1,3 @@
-Your current README has **too much hype and noise** (too many emojis, vague statements like “building the future”, mixed branding). Recruiters usually skim GitHub profiles in **10–20 seconds**, so it should look **clean, technical, and credible**.
-
-Here’s a **more professional version with the same structure**, but tighter and focused on engineering.
-
----
-
 # Gopal Mathur
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&style=for-the-badge)](https://www.linkedin.com/in/gopal-mathur-70044125a/)
