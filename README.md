@@ -1,123 +1,108 @@
 # Gopal Mathur
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&style=for-the-badge)](https://www.linkedin.com/in/gopal-mathur-70044125a/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github\&style=for-the-badge)](https://github.com/GM-11)
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail\&style=for-the-badge)](mailto:gopalmathur1001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gopal-mathur-70044125a/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mathurgopal1001@gmail.com)
 
-Automotive Engineering Undergraduate — Delhi Technological University (2022–2026)
-Software engineer focused on **backend systems, AI applications, distributed platforms, and blockchain infrastructure**.
+> I build production systems, not prototypes.  
+> Backend · Distributed Systems · AI Infrastructure · Blockchain
 
-Currently:
+Final-year Automotive Engineering undergrad at **DTU**, engineering software at the systems level — across C++, Go, Java, Rust, and Python. I own architecture, tradeoffs, and deployment. Not just code.
 
-* Technical Intern at **Siemens Technology**
-* President of **WEB3DTU**
-* Interested in **distributed systems, AI infrastructure, and automotive software**
+Currently interning at **Siemens Technology** building enterprise AI platforms, and serving as **President of WEB3DTU**.
 
 ---
 
-# Technologies
+## What I've Shipped
 
-### Languages
+### Realtime Collaborative Document Editor
+*C++ · Go · Java/Spring Boot · React · Kafka · PostgreSQL · Azure AKS*
 
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge\&logo=rust)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
+Google Docs-style collaborative editor built from first principles across polyglot microservices.
 
-### Frontend
+- C++ OT engine with Lamport clock-based causal ordering, exposed via CGo FFI to Go
+- Kafka event sourcing for async communication across 47,500+ ops under sustained load
+- RS256 asymmetric JWT + JWKS-based stateless auth on the hot WebSocket path
+- Deployed on Azure AKS with nginx ingress, cert-manager TLS, Azure Container Registry
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs)
-![Svelte](https://img.shields.io/badge/Svelte-F1413D?style=for-the-badge\&logo=svelte)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter)
-
-### Backend / Infrastructure
-
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws)
-
-### Blockchain
-
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge\&logo=ethereum)
-![Solana](https://img.shields.io/badge/Solana-4E44CE?style=for-the-badge\&logo=solana)
-![TON](https://img.shields.io/badge/TON-0088CC?style=for-the-badge)
+**738 msgs/sec broadcast throughput · 400 concurrent ops/sec through the OT engine · 100% connection success across 105 concurrent users**
 
 ---
 
-# Selected Projects
+### Enterprise GenAI Content Automation Platform — Siemens
+*Spring Boot · React · MongoDB · Azure CI/CD · RAG · Vector Embeddings*
 
-### Flow — Micro Drama Streaming Platform
+Took a GenAI PoC to full production enterprise deployment across India, US, and Germany.
 
-Mobile video streaming platform built with **Flutter, Golang, AWS, and PostgreSQL**
+- Engineered RAG pipelines with vector embeddings for factual accuracy and domain consistency
+- Implemented token-based rate limiting to control API cost exposure under multi-region concurrent load
+- Owned the full lifecycle: architecture → compliance → containerized deployment via Docker + Azure CI/CD
 
-* Designed microservice backend supporting **100+ concurrent users**
-* Optimized database queries reducing latency by **30%**
-* Deployed backend services on **AWS EC2**
-
----
-
-# Experience
-
-### Technical Intern — Siemens Technology
-
-2025 – Present
-
-* Built **GenAI platform** for automated training content generation
-* Implemented **RAG pipelines and vector embeddings**
-* Scaled PoC into a full-stack enterprise application using
-  **Spring Boot, React, MongoDB**
-* Containerized deployment using **Docker and Azure CI/CD**
+**40% reduction in training content development time · Adopted as flagship AI initiative internally**
 
 ---
 
-### Smart Contract Engineer Intern — Digital Asset Network
+### Custom Decoder-only GPT
+*PyTorch · Python · Transformer Architecture*
 
-2024 – 2025
+Implemented a GPT-style decoder Transformer from scratch — multi-head attention, positional embeddings, causal masking, full training pipeline with tiktoken.
 
-* Developed **Rust smart contracts** used by 700+ users
-* Implemented financial utilities such as **loan and rental protocols**
-* Built **TypeScript SDKs** for developer integrations
-* Improved **Next.js frontend performance**
-
----
-
-### Full Stack Developer — Ezinore Pvt Ltd
-
-2023
-
-* Built **IoT data pipelines** using ESP32 and AWS IoT Core
-* Developed **Flutter mobile application** and SvelteKit web platform
-* Prototyped systems used in **early-stage investor demonstrations**
+- 6-layer Transformer (384-dim, 6 heads, 1024 FFN) trained for conversational text completion
+- Built dataset loader and sequence batching for next-token prediction and perplexity evaluation
 
 ---
 
-# Achievements
+## Skills
 
-* 3rd Place — **Blockbash Hackathon (Crewsphere ICP Hub India)**
-* President — **WEB3DTU Blockchain Society**
-* Contributor — **DTU E-Summit Website**
+**Languages**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**Backend / Infrastructure**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+**Blockchain**
+
+![Solana](https://img.shields.io/badge/Solana-4E44CE?style=flat-square&logo=solana&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 
 ---
 
-# GitHub Stats
+## Experience
+
+| Role | Company | Period |
+|---|---|---|
+| SDE Intern | Siemens Technology & Services | May 2025 – Present |
+| Smart Contract Engineer Intern | Digital Asset Network | Sep 2024 – Mar 2025 |
+| Full Stack Developer | Ezinore Pvt. Ltd. | Feb 2023 – Sep 2023 |
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GM-11&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GM-11&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GM-11&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 </p>
 
 ---
 
-# Contact
-
-Email: [gopalmathur1001@gmail.com](mailto:gopalmathur1001@gmail.com)
-LinkedIn: [https://linkedin.com/in/gopal-mathur-70044125a](https://linkedin.com/in/gopal-mathur-70044125a)
-GitHub: [https://github.com/GM-11](https://github.com/GM-11)
+<p align="center">
+  <sub>Open to Backend SDE · Full-Stack SDE · Systems/Infrastructure Engineer roles</sub>
+</p>
