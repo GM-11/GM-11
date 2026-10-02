@@ -90,7 +90,6 @@ A GPT-style decoder Transformer implemented from scratch: multi-head attention, 
 
 | Role | Company | Period |
 |---|---|---|
-| Implementation Engineer | Tennr | Aug 2026 – Present |
 | SDE Intern | Siemens Technology & Services | May 2025 – May 2026 |
 | Smart Contract Engineer Intern | Digital Asset Network | Sep 2024 – Mar 2025 |
 | Full Stack Developer | Ezinore Pvt. Ltd. | Feb 2023 – Sep 2023 |
